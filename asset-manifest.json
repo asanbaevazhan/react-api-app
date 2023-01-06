@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-api-app/static/css/main.7d07d2ff.css",
+    "main.js": "/react-api-app/static/js/main.d3ee429d.js",
+    "static/media/sunset.jpg": "/react-api-app/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/react-api-app/index.html",
+    "main.7d07d2ff.css.map": "/react-api-app/static/css/main.7d07d2ff.css.map",
+    "main.d3ee429d.js.map": "/react-api-app/static/js/main.d3ee429d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d07d2ff.css",
+    "static/js/main.d3ee429d.js"
+  ]
+}
